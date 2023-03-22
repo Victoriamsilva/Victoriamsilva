@@ -1,3 +1,5 @@
+<img align="right" height="590em" src="https://gist.githubusercontent.com/Victoriamsilva/c9a4e220b32460bf3ba0d13070776561/raw/1140ad93797765efc2038b7b8bbb6e943b1df7d8/banner.svg"/>
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Victoria and my nickname is "Victoriamsilva"!
 
@@ -35,9 +37,3 @@
 
 
  
-
-
-
-
-
-![Snake animation](https://github.com/Victoriamsilva/Victoriamsilva/blob/output/github-contribution-grid-snake.svg)
