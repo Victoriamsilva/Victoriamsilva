@@ -5,8 +5,6 @@
 
 🔥 Full Stack Developer based in São Paulo, Brazil.
 
-- 🔭 I’m currently working at Redfox
-
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/educfernandes" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
