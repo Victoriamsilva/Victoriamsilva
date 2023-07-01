@@ -1,13 +1,13 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/Victoriamsilva/c9a4e220b32460bf3ba0d13070776561/raw/1140ad93797765efc2038b7b8bbb6e943b1df7d8/banner.svg"/>
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Victoria and my nickname is "Victoriamsilva"!
+# 👋 Oi! Bem vindo ao meu perfil do GitHub.
+## Meu nome é Victoria Marques
 
-🔥 Full Stack Developer based in São Paulo, Brazil.
+🔥 Desenvolvedora FullStack
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/educfernandes" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victoriamarquessilva/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoria.marques8424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
