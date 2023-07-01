@@ -5,13 +5,13 @@
 
 🔥 Desenvolvedora FullStack
 
-### 📫 Connect with me:
+### 📫Se conecte comigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/victoriamarquessilva/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:victoria.marques8424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-### 🌱 Languages and Tools:
+### 🌱 Linguagens e tecnologias:
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
